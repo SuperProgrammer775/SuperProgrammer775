@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SuperProgrammer775
-- 👀 I’m interested in Blockchain, Games, ReactJS, and Arduino
-- 💞️ I’m looking to collaborate on Quantum Computing Projects and Ethereum Smart Contracts/Defi
+- 👀 I’m interested in Blockchain, Games, and AI
+- 💞️ I’m looking to collaborate on Video Game Projects, and Artifical Intelligence
 - 📫 How to reach me: pagidipatiarjun@gmail.com
 
 <!---
